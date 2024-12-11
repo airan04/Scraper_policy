@@ -5,7 +5,7 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.service import Service
 
-webdriver_path = r"C:\Users\MEGHA AIRAN\Downloads\chromedriver-win64\chromedriver-win64\chromedriver.exe"
+webdriver_path = r""
 
 service = Service(webdriver_path)
 
